@@ -94,5 +94,28 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="left-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="clipboard-paste-button %281%29.png" />
+    <Resource Include="copy-content %281%29.png" />
+    <Resource Include="rubbish-bin-delete-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="folder-symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="cut-content-button %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\diskdrive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\google-drive-file.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
